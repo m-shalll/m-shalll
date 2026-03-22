@@ -33,9 +33,4 @@ I enjoy solving real-world problems through software, continuously improving my 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-# 📫 Connect With Me
-- 📧 mohamed.ahmed.shal@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/m-shalll/  
-- 💻 GitHub: https://github.com/m-shalll
